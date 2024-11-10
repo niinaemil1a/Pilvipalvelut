@@ -2,9 +2,3 @@ title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
 theme: jekyll-theme-minimal
 
-# Värit
-colors:
-  primary: "#007bff"    # Pääväri
-  secondary: "#6c757d"  # Toissijainen väri
-  background: "#ffffff" # Taustaväri
-  text: "#212529"
