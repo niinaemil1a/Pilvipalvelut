@@ -2,4 +2,4 @@ Jekyll-sivuston automatisointi GitHub Actions -toimintojen avulla voidaan tehdä
 
 CI/CD-putkiston rakentamisessa web-sovellukselle voidaan hyödyntää työkaluja kuten GitHub Actions, joka voi automatisoida testauksen, koodin analysoinnin ja deploymentin. Testaukseen sopivat esim. Jest (JavaScript), PyTest (Python) ja CI/CD-toteutuksessa Docker voi eristää ympäristön. Lisäksi voidaan käyttää työkaluja kuten Terraform infrastruktuurin hallintaan ja Ansible konfiguraation automatisointiin. Tämä varmistaa jatkuvan integraation ja toimituksen (CI/CD), mikä nopeuttaa ja vakauttaa kehitysprosessia.
 
-[Takaisin](/vko2/index.md)
+[Takaisin](/vko2)
