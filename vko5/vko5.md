@@ -1,5 +1,5 @@
-##Otsikko Teksti
+### Analytiikan hyödyntäminen harjoitustyössä
 
-Tekstiä
+Tarkoituksena on käyttää harjoitustyössä Firebasen analytiikkaa integroimalla Firebase SDK (Software Development Kit) sivustolle. Firebase SDK on kokoelma työkaluja ja kirjastoja, jotka mahdollistavat palvelun integroinnin sivustollesi. Firebase analyticsin avulla saadaan kerättyä tietoa sivuston kävijöistä ja heidän toiminnasta, kuten sivustolla käynneistä, painikkeiden klikkauksista ja sivustolla liikkumisesta. Analytiikka auttaa ymmärtämään kävijöiden käyttäytymistä. Saavutettavalla sivustolla sivuston kävijän tulisi löytää kolmella klikkauksella sivustolta etsimänsä tieto, joten esimerkiksi tämän toteutumista voidaan analysoida. Muuta sivustolta kerättävää analytiikkaa on esimerkiksi tiedot käyttäjien suosituista sivuista, käyttöajoista ja laitteista. Firebasen avulla on mahdollista saada raportteja, joiden avulla sivuston toiminnallisuuksia voi muokata ja parantaa. Tämä parantaa käyttäjäkokemusta ja sivuston tehokkuutta.  
 
 [Takaisin](https://niinaemil1a.github.io/pwk/vko2/)
